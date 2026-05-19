@@ -15,8 +15,11 @@
 
 ## 🌱 Currently Learning
 
-- System Design ([Free 158-page PDF](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages))
-- Full-Stack Web Development (React + Node.js)
+- 🏗️ System Design — scalability, caching, load balancing & distributed systems ([ByteByteGo PDF](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages))
+- ⚡ Next.js — App Router, SSR, SSG & server actions
+- 🗄️ Databases — SQL (MySQL, PostgreSQL) & NoSQL (MongoDB, Supabase)
+- 🐍 Python — scripting, data structures & backend fundamentals
+- 🌐 Full-Stack Development — React + Node.js + REST APIs
 
 ## 💬 Ask me about
 
