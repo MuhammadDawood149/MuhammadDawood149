@@ -11,7 +11,7 @@
   💻 Passionate about React, JavaScript, and Modern Web Development
 </h3>
 
----
+<hr>
 
 ## 🌱 Currently Learning
 
@@ -25,7 +25,7 @@
 JavaScript, React, C++, OOP, or anything related to web development  
 👉 Open an issue [here](https://github.com/MuhammadDawood149/MuhammadDawood149/issues)
 
----
+<hr>
 
 <div align="center">
   <a href="mailto:muhammaddawood1266@gmail.com">
@@ -39,7 +39,7 @@ JavaScript, React, C++, OOP, or anything related to web development
   </a>
 </div>
 
----
+<hr>
 
 ## 🛠️ Languages and Tools
 
@@ -51,18 +51,18 @@ JavaScript, React, C++, OOP, or anything related to web development
   <img src="https://skillicons.dev/icons?i=c,cpp" />
 </p>
 
----
+<hr>
 
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=MuhammadDawood149&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadDawood149&theme=transparent&count_private=true&border_radius=10&locale=en" alt="GitHub Streak Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=MuhammadDawood149&theme=dark&count_private=true&show_icons=true&rank_icon=github&hide_border=true" alt="GitHub Stats" />
+  <img width="390" src="https://streak-stats.demolab.com?user=MuhammadDawood149&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
   <br>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadDawood149&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Top Languages" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadDawood149&theme=dark&layout=donut&langs_count=8&border_radius=10&hide_border=true" alt="Top Languages" />
 </div>
 
-
+<hr>
 
 <div align="center">
   <picture>
@@ -71,5 +71,3 @@ JavaScript, React, C++, OOP, or anything related to web development
     <img alt="github-snake" src="https://raw.githubusercontent.com/MuhammadDawood149/MuhammadDawood149/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-<hr>
