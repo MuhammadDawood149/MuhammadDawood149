@@ -56,10 +56,10 @@ JavaScript, React, C++, OOP, or anything related to web development
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=MuhammadDawood149&theme=dark&count_private=true&show_icons=true&rank_icon=github&hide_border=true" alt="GitHub Stats" />
-  <img width="390" src="https://streak-stats.demolab.com?user=MuhammadDawood149&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
+  <img width="390" src="https://github-readme-stats-mu-three-32.vercel.app/api?username=MuhammadDawood149&theme=dark&count_private=true&show_icons=true&rank_icon=github&hide_border=true" alt="GitHub Stats" />
+  <img width="390" src="https://streak-stats.demolab.com?user=MuhammadDawood149&theme=dark&hide_border=true&border_radius=10&cache_seconds=1800" alt="GitHub Streak Stats" />
   <br>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadDawood149&theme=dark&layout=donut&langs_count=8&border_radius=10&hide_border=true" alt="Top Languages" />
+  <img width="325" src="https://github-readme-stats-mu-three-32.vercel.app/api/top-langs?username=MuhammadDawood149&theme=dark&layout=donut&langs_count=8&border_radius=10&hide_border=true" alt="Top Languages" />
 </div>
 
 <hr>
