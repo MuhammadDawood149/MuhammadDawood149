@@ -62,7 +62,14 @@ JavaScript, React, C++, OOP, or anything related to web development
 
 <div align="center">
   <a href="https://github.com/MuhammadDawood149/FoundersStack">
-    <img width="400" src="https://github-readme-stats-mu-three-32.vercel.app/api/pin/?username=MuhammadDawood149&repo=FoundersStack&theme=dark&hide_border=true" alt="FoundersStack" />
+    <img width="400" src="https://github-readme-stats-mu-three-32.vercel.app/api/pin/?username=MuhammadDawood149&repo=FoundersStack&theme=dark&hide_border=true&description_lines_count=2" alt="FoundersStack" />
+  </a>
+  <a href="https://github.com/MuhammadDawood149/neon-scholar-portal">
+    <img width="400" src="https://github-readme-stats-mu-three-32.vercel.app/api/pin/?username=MuhammadDawood149&repo=neon-scholar-portal&theme=dark&hide_border=true&description_lines_count=2" alt="neon-scholar-portal" />
+  </a>
+  <br>
+  <a href="https://github.com/MuhammadDawood149/skynet-air-traffic-control">
+    <img width="400" src="https://github-readme-stats-mu-three-32.vercel.app/api/pin/?username=MuhammadDawood149&repo=skynet-air-traffic-control&theme=dark&hide_border=true&description_lines_count=2" alt="skynet-air-traffic-control" />
   </a>
 </div>
 
