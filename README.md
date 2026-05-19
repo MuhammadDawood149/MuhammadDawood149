@@ -1,8 +1,3 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://komarev.com/ghpvc/?username=MuhammadDawood149&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadDawood149" /> 
-</div>
-
 <img src="https://github.com/MuhammadDawood149/MuhammadDawood149/blob/main/Banner.png" alt="Banner of a developer sitting in front of a desk">
 
 <h1 align="center">Hi 👋, I'm Muhammad Dawood</h1>
@@ -10,6 +5,16 @@
   🚀 Software Engineering Student at FAST NUCES <br>
   💻 Passionate about React, JavaScript, and Modern Web Development
 </h3>
+
+<hr>
+
+## 🔭 Currently Working On
+
+<div align="center">
+  <a href="https://github.com/MuhammadDawood149/FoundersStack">
+    <img src="https://img.shields.io/badge/🚀%20FoundersStack-In%20Progress-brightgreen?style=for-the-badge&logoColor=white" alt="Currently Working On FoundersStack" />
+  </a>
+</div>
 
 <hr>
 
@@ -53,6 +58,24 @@ JavaScript, React, C++, OOP, or anything related to web development
 
 <hr>
 
+## 📌 Pinned Projects
+
+<div align="center">
+  <a href="https://github.com/MuhammadDawood149/FoundersStack">
+    <img width="400" src="https://github-readme-stats-mu-three-32.vercel.app/api/pin/?username=MuhammadDawood149&repo=FoundersStack&theme=dark&hide_border=true" alt="FoundersStack" />
+  </a>
+</div>
+
+<hr>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadDawood149&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+<hr>
+
 ## ⚡ GitHub Stats
 
 <div align="center">
@@ -60,6 +83,12 @@ JavaScript, React, C++, OOP, or anything related to web development
   <img width="390" src="https://streak-stats.demolab.com?user=MuhammadDawood149&theme=dark&hide_border=true&border_radius=10&cache_seconds=1800" alt="GitHub Streak Stats" />
   <br>
   <img width="325" src="https://github-readme-stats-mu-three-32.vercel.app/api/top-langs?username=MuhammadDawood149&theme=dark&layout=donut&langs_count=8&border_radius=10&hide_border=true" alt="Top Languages" />
+</div>
+
+<hr>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammadDawood149&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammadDawood149" />
 </div>
 
 <hr>
