@@ -143,6 +143,6 @@ Open an [issue](https://github.com/MuhammadDawood149/MuhammadDawood149/issues) i
 
 <br>
 
-<sub>Islamabad, Pakistan · 🇵🇰</sub>
+<sub>Arifwala, Pakistan · 🇵🇰</sub>
 
 </div>
