@@ -12,6 +12,7 @@
 
 <br>
 
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=Muhammad+Dawood;I+build+things+that+run+in+browsers;Currently%3A+FoundersStack+%F0%9F%9A%80;React+%C2%B7+Next.js+%C2%B7+Learning+ML" alt="Typing SVG" />
 
 <br><br>
@@ -161,7 +162,7 @@ Migrating from vanilla HTML → **Next.js 14**
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_data_capsul.svg" width="100%">
+<img src="https://github.com/MuhammadDawood149/MuhammadDawood149/blob/main/divider.svg" width="100%">
 </div>
 
 
