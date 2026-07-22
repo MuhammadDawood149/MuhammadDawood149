@@ -129,12 +129,15 @@ Migrating from vanilla HTML → **Next.js 14**
 
 <div align="center">
 
-## ⟡ Let's Talk
+**Thank you for visiting!**
 
-Open an [issue](https://github.com/MuhammadDawood149/MuhammadDawood149/issues) if you want to talk **JavaScript, React, C++, OOP,** or web dev in general.
+<img src="assets/main.gif" width="400">
+
+</div>
 
 <br>
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadDawood149/MuhammadDawood149/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadDawood149/MuhammadDawood149/output/github-contribution-grid-snake.svg" />
