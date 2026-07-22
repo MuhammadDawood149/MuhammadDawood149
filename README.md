@@ -1,7 +1,14 @@
 <div align="center">
 
-<!-- Custom hero banner — hosted from your own repo's /assets folder (see setup note below) -->
-<img src="assets/banner.svg" alt="Muhammad Dawood — Software Engineering Student" width="100%">
+<img src="https://github.com/MuhammadDawood149/MuhammadDawood149/blob/main/Banner.png" alt="Banner" width="100%">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=Muhammad+Dawood;I+build+things+that+run+in+browsers;Currently%3A+FoundersStack+%F0%9F%9A%80;React+%C2%B7+Next.js+%C2%B7+Learning+ML" alt="Typing SVG" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Software%20Engineering%20Student-FAST--NUCES-2DD4BF?style=for-the-badge&labelColor=0D1117" />
 
 <br><br>
 
@@ -13,39 +20,44 @@
 
 <br>
 
-## whoami
+<div align="center">
 
-```js
-const dawood = {
-  role: "Software Engineering Student, FAST-NUCES faislabad",
-  base: "Faislabad, Pakistan",
-  stack: ["React", "Next.js", "Node.js", "Tailwind"],
-  currentlyBuilding: "FoundersStack — AI-powered founder tools",
-  currentlyLearning: ["Machine Learning (Python + scikit-learn)", "Next.js App Router"]
-};
+### `"Ship it, then make it good."`
+
+</div>
+
+<br>
+
+## ⟡ About
+
+```
+> whoami
+Software engineering student, obsessed with the gap
+between a good idea and a working product. Building on React and
+Next.js by day, teaching myself machine learning on the side.
 ```
 
 <br>
 
-## Building
+## ⟡ What I'm Building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### FoundersStack
-Converts messy founder notes into prioritized, actionable cards — powered by AI.
+### 🧠 FoundersStack
+Turns messy founder notes into prioritized action cards, powered by AI.
 
 🥉 **3rd place** — Google AI Hackathon
-Core developer — shipping multi-team management, Supabase Realtime, Google OAuth
+Core dev — shipping multi-team management, Supabase Realtime, Google OAuth
 
-**[View repo →](https://github.com/MuhammadDawood149/FoundersStack)**
+**[View the repo →](https://github.com/MuhammadDawood149/FoundersStack)**
 
 </td>
 <td width="50%" valign="top">
 
-### Walkable 3D Portfolio
-An isometric resume you walk through — built in Three.js with procedurally generated buildings and WASD movement.
+### 🏙️ Walkable 3D Portfolio
+An isometric resume you *walk through* — built in Three.js with procedurally generated buildings and WASD movement.
 
 Migrating from vanilla HTML → **Next.js 14**
 
@@ -55,17 +67,21 @@ Migrating from vanilla HTML → **Next.js 14**
 
 <br>
 
-## Currently Learning
+## ⟡ Currently Leveling Up
+
+<div align="center">
 
 | | |
 |:--|:--|
-| **Next.js** | App Router · SSR/SSG · Server Actions |
-| **Databases** | MySQL · PostgreSQL · MongoDB · Supabase |
-| **Machine Learning** | Python + scikit-learn — shipped Titanic & Breast Cancer prediction models |
+| ⚡ **Next.js** | App Router · SSR/SSG · Server Actions |
+| 🗄️ **Databases** | MySQL · PostgreSQL · MongoDB · Supabase |
+| 🤖 **Machine Learning** | Python + scikit-learn — shipped Titanic & Breast Cancer prediction models |
+
+</div>
 
 <br>
 
-## Stack
+## ⟡ Toolbox
 
 <div align="center">
 
@@ -79,7 +95,7 @@ Migrating from vanilla HTML → **Next.js 14**
 
 <br>
 
-## Pinned
+## ⟡ Pinned
 
 <div align="center">
 
@@ -100,7 +116,7 @@ Migrating from vanilla HTML → **Next.js 14**
 
 <br>
 
-## Activity
+## ⟡ The Numbers
 
 <div align="center">
 
@@ -111,7 +127,22 @@ Migrating from vanilla HTML → **Next.js 14**
 
 <br>
 
+<div align="center">
 
-<sub>Arifwala, Pakistan</sub>
+## ⟡ Let's Talk
+
+Open an [issue](https://github.com/MuhammadDawood149/MuhammadDawood149/issues) if you want to talk **JavaScript, React, C++, OOP,** or web dev in general.
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadDawood149/MuhammadDawood149/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadDawood149/MuhammadDawood149/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MuhammadDawood149/MuhammadDawood149/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br>
+
+<sub>Arifwala, Pakistan · 🇵🇰</sub>
 
 </div>
