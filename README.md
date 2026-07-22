@@ -12,11 +12,34 @@
 
 <br>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="24">
-<br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2d5e,100:b8760f&height=140&section=footer" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=Muhammad+Dawood;I+build+things+that+run+in+browsers;Currently%3A+FoundersStack+%F0%9F%9A%80;React+%C2%B7+Next.js+%C2%B7+Learning+ML" alt="Typing SVG" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Software%20Engineering%20Student-FAST--NUCES-2DD4BF?style=for-the-badge&labelColor=0D1117" />
+
+<br><br>
+
+[![Email](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=2DD4BF)](mailto:muhammaddawood1266@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF)](https://www.linkedin.com/in/muhammad-dawood-9144b426b/)
+[![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=2DD4BF)](https://github.com/MuhammadDawood149)
+
 </div>
+
+<br>
+
+<div align="center">
+
+### `"Ship it, then make it good."`
+
+</div>
+
+
+
+
+
+
+
 
 <br>
 
@@ -140,6 +163,17 @@ Migrating from vanilla HTML → **Next.js 14**
 <div align="center">
 <img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_data_capsul.svg" width="100%">
 </div>
+
+
+
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="24">
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2d5e,100:b8760f&height=140&section=footer" width="100%">
+</div>
+
+
 
 <div align="center">
 <picture>
