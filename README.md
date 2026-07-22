@@ -1,14 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/MuhammadDawood149/MuhammadDawood149/blob/main/Banner.png" alt="Banner" width="100%">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=650&lines=Muhammad+Dawood;I+build+things+that+run+in+browsers;Currently%3A+FoundersStack+%F0%9F%9A%80;React+%C2%B7+Next.js+%C2%B7+Learning+ML" alt="Typing SVG" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Software%20Engineering%20Student-FAST--NUCES-2DD4BF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://github.com/MuhammadDawood149/MuhammadDawood149/blob/main/Banner.png" alt="Muhammad Dawood — Software Engineering Student" width="100%">
 
 <br><br>
 
@@ -21,43 +13,49 @@
 <br>
 
 <div align="center">
-
-### `"Ship it, then make it good."`
-
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/icons/devops/icon_heartbeat_node.svg" width="24">
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2d5e,100:b8760f&height=140&section=footer" width="100%">
 </div>
 
 <br>
 
-## ⟡ About
+## whoami
 
+```js
+const dawood = {
+  role: "Software Engineering Student, FAST-NUCES Islamabad",
+  base: "Arifwala, Pakistan",
+  stack: ["React", "Next.js", "Node.js", "Tailwind"],
+  currentlyBuilding: "FoundersStack — AI-powered founder tools",
+  currentlyLearning: ["Machine Learning (Python + scikit-learn)", "Next.js App Router"],
+  community: "Google Developer Groups on Campus (GDGoC)",
+};
 ```
-> whoami
-Software engineering student, obsessed with the gap
-between a good idea and a working product. Building on React and
-Next.js by day, teaching myself machine learning on the side.
-```
 
-<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg" width="100%">
+</div>
 
-## ⟡ What I'm Building
+## Building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 FoundersStack
-Turns messy founder notes into prioritized action cards, powered by AI.
+### FoundersStack
+Converts messy founder notes into prioritized, actionable cards — powered by AI.
 
 🥉 **3rd place** — Google AI Hackathon
-Core dev — shipping multi-team management, Supabase Realtime, Google OAuth
+Core developer — shipping multi-team management, Supabase Realtime, Google OAuth
 
-**[View the repo →](https://github.com/MuhammadDawood149/FoundersStack)**
+**[View repo →](https://github.com/MuhammadDawood149/FoundersStack)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🏙️ Walkable 3D Portfolio
-An isometric resume you *walk through* — built in Three.js with procedurally generated buildings and WASD movement.
+### Walkable 3D Portfolio
+An isometric resume you walk through — built in Three.js with procedurally generated buildings and WASD movement.
 
 Migrating from vanilla HTML → **Next.js 14**
 
@@ -65,23 +63,21 @@ Migrating from vanilla HTML → **Next.js 14**
 </tr>
 </table>
 
-<br>
-
-## ⟡ Currently Leveling Up
-
 <div align="center">
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg" width="100%">
+</div>
+
+## Currently Learning
 
 | | |
 |:--|:--|
-| ⚡ **Next.js** | App Router · SSR/SSG · Server Actions |
-| 🗄️ **Databases** | MySQL · PostgreSQL · MongoDB · Supabase |
-| 🤖 **Machine Learning** | Python + scikit-learn — shipped Titanic & Breast Cancer prediction models |
-
-</div>
+| **Next.js** | App Router · SSR/SSG · Server Actions |
+| **Databases** | MySQL · PostgreSQL · MongoDB · Supabase |
+| **Machine Learning** | Python + scikit-learn — shipped Titanic & Breast Cancer prediction models |
 
 <br>
 
-## ⟡ Toolbox
+## Stack
 
 <div align="center">
 
@@ -93,9 +89,11 @@ Migrating from vanilla HTML → **Next.js 14**
 
 </div>
 
-<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg" width="100%">
+</div>
 
-## ⟡ Pinned
+## Pinned
 
 <div align="center">
 
@@ -114,9 +112,11 @@ Migrating from vanilla HTML → **Next.js 14**
 
 </div>
 
-<br>
+<div align="center">
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg" width="100%">
+</div>
 
-## ⟡ The Numbers
+## Activity
 
 <div align="center">
 
@@ -131,11 +131,15 @@ Migrating from vanilla HTML → **Next.js 14**
 
 **Thank you for visiting!**
 
-<img src="assets/main.gif" width="400">
+<img src="https://github.com/MuhammadDawood149/MuhammadDawood149/blob/main/main.gif" width="400">
 
 </div>
 
 <br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_data_capsul.svg" width="100%">
+</div>
 
 <div align="center">
 <picture>
